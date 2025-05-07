@@ -1,2 +1,2 @@
 # app-develop
-aplicación web realizada con HTML, Bootstrap y javascript
+Aplicacion web realizada con HTML, Bootstrap y JavaScript
